@@ -20,13 +20,22 @@ and uncover underlying relationships in data.
 ---
 ### Sample polynomial regression / function approximation
 
-In this repo a samlpe polynomial regression is demonstrated.
-The function to approximate is of degree 5 and defined as follows:
+In this repository, a sample polynomial regression is showcased, 
+illustrating the application of a polynomial function with a degree of 5. 
+The specific function to be approximated is defined as follows, providing a 
+practical example of how polynomial regression can be utilized to model complex 
+relationships in data.
 
 $2 \cdot x + 3 \cdot x^2 + 4 \cdot x^{3} + 5 \cdot x^{4} + 6 \cdot x^{5} +10$ \
 
 This function can be plotted as follows: \
 <img src="https://github.com/ABr-hub/SimpleRegression/blob/dbe142c6ea1086df32fe07c60ed94cfaba4d2512/ressources/SampleRegression_appFunction.png" width=60% height=60%>
+
+It's essential to note that in this sample, the demonstration involves approximating 
+a mathematically predefined function. As a result, the data used in this context does 
+not exhibit standard deviation, as the focus is on showcasing the polynomial regression's 
+ability to accurately capture the predetermined mathematical relationship without inherent 
+variability.
 
 The approximation process by the neural network is illustrated below: \
 <img src="https://github.com/ABr-hub/SimpleRegression/blob/35fda00c6e2354bc611c8d7d01eb8d8a2ed1c7e7/ressources/Reg1.gif" width=60% height=60%>
