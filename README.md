@@ -26,7 +26,7 @@ The specific function to be approximated is defined as follows, providing a
 practical example of how polynomial regression can be utilized to model complex 
 relationships in data.
 
-$2 \cdot x + 3 \cdot x^2 + 4 \cdot x^{3} + 5 \cdot x^{4} + 6 \cdot x^{5} +10$ \
+$2 \cdot x + 3 \cdot x^2 + 4 \cdot x^{3} + 5 \cdot x^{4} + 6 \cdot x^{5} +10$
 
 This function can be plotted as follows: \
 <img src="https://github.com/ABr-hub/SimpleRegression/blob/dbe142c6ea1086df32fe07c60ed94cfaba4d2512/ressources/SampleRegression_appFunction.png" width=60% height=60%>
