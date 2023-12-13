@@ -20,4 +20,4 @@ and uncover underlying relationships in data.
 ---
 ### Sample regression / function approximation
 
-![](https://github.com/ABr-hub/ParticleSwarmOptimization/blob/a0e40e84aad239bb120d579c1f5b8c142ed1bc2b/ressources/PSO_2Solution.gif)
+![](https://github.com/ABr-hub/SimpleRegression/blob/35fda00c6e2354bc611c8d7d01eb8d8a2ed1c7e7/ressources/Reg1.gif)
