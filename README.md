@@ -15,4 +15,4 @@ Regression analysis is widely employed in various fields, including economics,
 finance, biology, and machine learning, to make predictions, understand patterns, 
 and uncover underlying relationships in data.
 
-![image](https://github.com/ABr-hub/SimpleRegression/blob/ecdc3f098b8d43d8b1320bf1734d5da63e6c1684/ressources/SampleRegression.png)
+![image](https://github.com/ABr-hub/SimpleRegression/blob/cb96b20a1bcd329a19b68f9e23c0e0e907db0c62/ressources/SampleRegression.png)
