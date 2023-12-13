@@ -16,3 +16,8 @@ finance, biology, and machine learning, to make predictions, understand patterns
 and uncover underlying relationships in data.
 
 <img src="https://github.com/ABr-hub/SimpleRegression/blob/cb96b20a1bcd329a19b68f9e23c0e0e907db0c62/ressources/SampleRegression.png" width=60% height=60%>
+
+---
+### Sample regression / function approximation
+
+![](https://github.com/ABr-hub/ParticleSwarmOptimization/blob/a0e40e84aad239bb120d579c1f5b8c142ed1bc2b/ressources/PSO_2Solution.gif)
