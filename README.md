@@ -22,6 +22,7 @@ and uncover underlying relationships in data.
 
 In this repo a samlpe polynomial regression is demonstrated.
 The function to approximate is of degree 5 and defined as follows:
+
 $2 \cdot x + 3 \cdot x^2 + 4 \cdot x^{3} + 5 \cdot x^{4} + 6 \cdot x^{5} +10$
 
 <img src="https://github.com/ABr-hub/SimpleRegression/blob/35fda00c6e2354bc611c8d7d01eb8d8a2ed1c7e7/ressources/Reg1.gif" width=60% height=60%>
