@@ -1,5 +1,5 @@
 # SimpleRegression
-This repo showcases a simple regression problem in PyTorch
+This repository showcases a simple regression problem in PyTorch.
 
 ---
 ### Regression
