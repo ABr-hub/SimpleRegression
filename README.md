@@ -51,4 +51,4 @@ the neural network is applied to approximate a step function in the second examp
 the versatility of polynomial regression in effectively modeling abrupt changes and 
 discontinuities within datasets.
 
-<img src="https://github.com/ABr-hub/SimpleRegression/blob/f2f85b85b4e87364faceb033d76aa774c6ec32e7/ressources/AbsReg.gif"  width=45% height=45%/> <img src="https://github.com/ABr-hub/SimpleRegression/blob/6c5ced72b2a999f7156c90600dd3aef5f117fdd0/ressources/StepReg.gif"  width=45% height=45%/>
+<img src="https://github.com/ABr-hub/SimpleRegression/blob/f2f85b85b4e87364faceb033d76aa774c6ec32e7/ressources/AbsReg.gif"  width=43% height=43%/> <img src="https://github.com/ABr-hub/SimpleRegression/blob/6c5ced72b2a999f7156c90600dd3aef5f117fdd0/ressources/StepReg.gif"  width=45% height=45%/>
