@@ -40,6 +40,15 @@ variability.
 The approximation process by the neural network is illustrated below: \
 <img src="https://github.com/ABr-hub/SimpleRegression/blob/35fda00c6e2354bc611c8d7d01eb8d8a2ed1c7e7/ressources/Reg1.gif" width=60% height=60%>
 
+---
+### Other examples
 
+In the subsequent examples, the same neural network used previously as a function 
+approximator is employed for two distinct scenarios. The first case highlights the network's 
+ability to approximate an absolute valued function, underscoring the effectiveness of 
+polynomial regression in capturing the nuances of non-linear behaviors. Subsequently, 
+the neural network is applied to approximate a step function in the second example, demonstrating 
+the versatility of polynomial regression in effectively modeling abrupt changes and 
+discontinuities within datasets.
 
 <img src="https://github.com/ABr-hub/SimpleRegression/blob/35fda00c6e2354bc611c8d7d01eb8d8a2ed1c7e7/ressources/Reg1.gif"  width=45% height=45%/> <img src="https://github.com/ABr-hub/SimpleRegression/blob/35fda00c6e2354bc611c8d7d01eb8d8a2ed1c7e7/ressources/Reg1.gif"  width=45% height=45%/>
