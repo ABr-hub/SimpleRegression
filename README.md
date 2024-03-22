@@ -24,7 +24,7 @@ In this repository, a sample polynomial regression is showcased,
 illustrating the application of a polynomial function with a degree of 5. 
 The specific function to be approximated is defined as follows, providing a 
 practical example of how polynomial regression can be utilized to model complex 
-relationships in data.sda
+relationships in data.
 
 $2 \cdot x + 3 \cdot x^2 + 4 \cdot x^{3} + 5 \cdot x^{4} + 6 \cdot x^{5} +10$
 
